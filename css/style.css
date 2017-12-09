@@ -11,6 +11,6 @@ figcaption {
   font-size: 0.75em;
   line-height: 1.5em;
   font-family: Georgia, "Times New Roman", serif;*/
-  font: normal 0.75em/1.5em Georgia, "Times New Roman", serif;
+  font: normal 0.75em/1.5em font-family: 'Elsie Swash Caps', cursive, "Times New Roman", serif;
   color: #777;
 }
